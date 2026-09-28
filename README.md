@@ -6,7 +6,7 @@
 
 - Unity `6000.2.6f2`
 - Universal Render Pipeline
-- Стартовая сцена: `Assets/Project/Scenes/Level_1.unity`
+
 
 ## Запуск
 
